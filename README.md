@@ -39,48 +39,31 @@ const rudraksh = {
 };
 ```
 
----
-
+ 
 ## 🛠️ Tech Stack
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=c" width="35"/><br/>C | <img src="https://skillicons.dev/icons?i=cpp" width="35"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="35"/><br/>Java | <img src="https://skillicons.dev/icons?i=python" width="35"/><br/>Python | <img src="https://skillicons.dev/icons?i=javascript" width="35"/><br/>JavaScript |
-|:---|:---|:---:|:---:|:---:|:---:|:---:|
-| **Programming Languages** | | ✅ | ✅ | ✅ | ✅ | ✅ |
-
-<br/>
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=bash" width="35"/><br/>Bash |
-|:---|:---|:---:|
-| **Scripting** | | ✅ |
-
-<br/>
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=html" width="35"/><br/>HTML | <img src="https://skillicons.dev/icons?i=css" width="35"/><br/>CSS | <img src="https://img.shields.io/badge/MD-000?style=flat-square&logo=markdown&logoColor=white" height="35"/><br/>Markdown | <img src="https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white" height="35"/><br/>JSON | <img src="https://skillicons.dev/icons?i=tailwind" width="35"/><br/>Tailwind CSS | <img src="https://skillicons.dev/icons?i=bootstrap" width="35"/><br/>Bootstrap | <img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React.js | <img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="35"/><br/>Express.js |
-|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Web Development** | Core | ✅ | ✅ | ✅ | ✅ | | | | | |
-| | Styling Frameworks | | | | | ✅ | ✅ | | | |
-| | JS Libraries, Frameworks & Environment | | | | | | | ✅ | ✅ | ✅ |
-
-<br/>
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br/>MongoDB |
-|:---|:---|:---:|
-| **Database** | NoSQL | ✅ |
-
-<br/>
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=django" width="35"/><br/>Django | <img src="https://skillicons.dev/icons?i=fastapi" width="35"/><br/>FastAPI | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35"/><br/>NumPy | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35"/><br/>Pandas | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35"/><br/>Matplotlib |
-|:---|:---|:---:|:---:|:---:|:---:|:---:|
-| **Python Ecosystem** | Web Frameworks | ✅ | ✅ | | | |
-| | Data & ML Libraries | | | ✅ | ✅ | ✅ |
-
-<br/>
-
-| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=git" width="35"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="35"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="35"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=postman" width="35"/><br/>Postman | <img src="https://skillicons.dev/icons?i=linux" width="35"/><br/>Linux |
-|:---|:---|:---:|:---:|:---:|:---:|:---:|
-| **Tools & DevOps** | Version Control | ✅ | ✅ | | | |
-| | IDE & Environment | | | ✅ | ✅ | ✅ |
-
+ 
+| **Main Category** | **Subcategory** | **Technologies / Tools** |||
+|:---|:---|:---:|:---:|:---:|
+| **Programming Languages** | | <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</a> | <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++</a> | <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</a> |
+| | | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</a> | <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>JavaScript</a> | |
+| **Scripting** | | <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>Bash</a> | | |
+| **Web Development** | Core | <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML</a> | <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS</a> | <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" width="48" height="48"/><br/>Markdown |
+| | | <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" width="48" height="48"/><br/>JSON | | |
+| | Styling Frameworks | <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS</a> | <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</a> | |
+| | JavaScript Libraries, Frameworks & Environment | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React.js</a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</a> | <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js</a> |
+| | Python Frameworks | <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/>Django</a> | <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI</a> | |
+| **Databases** | Relational Databases | <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>SQLite</a> | <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</a> | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</a> |
+| | Non-Relational Databases | <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</a> | | |
+| **Data Science / AI ML** | Development Environment | <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/>Jupyter</a> | <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br/>Anaconda</a> | |
+| | Data Visualisation Tools | <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" width="48" height="48"/><br/>Plotly</a> | <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" width="48" height="48"/><br/>Matplotlib</a> | |
+| | Scientific Computing & Other Libraries | <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="48" height="48"/><br/>NumPy</a> | <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="48" height="48"/><br/>Pandas</a> | |
+| | Machine Learning | <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="48" height="48"/><br/>Scikit-learn</a> | | |
+| | Deep Learning | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch</a> | | |
+| **Deployment** | | <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</a> | <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify</a> | <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>GitHub Actions</a> |
+| **Version Control** | | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</a> | <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</a> | |
+| **API Testing** | | <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</a> | | |
+| **IDE / Editors** | | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</a> | <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</a> | |
+ 
 ---
 
 ## 📊 GitHub Stats
