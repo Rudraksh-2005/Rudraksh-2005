@@ -11,17 +11,16 @@
 </div>
 
 ---
-
+ 
 ## 🌐 Connect With Me
-
+ 
 <div align="center">
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh2005) | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) |
-|:---:|:---:|:---:|:---:|:---:|
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) | [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/) | [![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://topcoder.com/) |
-
+ 
+| <a href="https://linkedin.com/in/rudraksh2005"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br/>LinkedIn</a> | <a href="https://leetcode.com/u/Rudraksh_Agrawal/"><img src="https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="50" width="50"/><br/>LeetCode</a> | <a href="https://www.geeksforgeeks.org/profile/rudrakshp284"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="50" width="50"/><br/>GeeksforGeeks</a> |
+|:---:|:---:|:---:|
+ 
 </div>
-
+ 
 ---
 
 ## 🧑‍💻 About Me
