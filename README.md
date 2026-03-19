@@ -6,28 +6,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Building+the+web%2C+one+commit+at+a+time;%F0%9F%A7%A0+DSA+Grinder+%7C+C%2B%2B+%7C+Java;%F0%9F%8C%90+MERN+Stack+Architect;%F0%9F%90%8D+Python+%26+ML+Explorer;%F0%9F%94%A5+Open+Source+%7C+Internship+Ready)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+the+web%2C+one+commit+at+a+time;%F0%9F%A7%A0+DSA+Grinder+%7C+C%2B%2B+%7C+Java;%F0%9F%8C%90+MERN+Stack+Architect;%F0%9F%90%8D+Python+%26+ML+Explorer;%F0%9F%94%A5+Open+Source+%7C+Internship+Ready)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🌐 Connect With Me
 
-| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rudraksh2005) | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Rudraksh-2005) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rudrakshcode58@gmail.com) |
-|:---:|:---:|:---:|:---:|
-| **LinkedIn** | **GitHub** | **Instagram** | **Gmail** |
+<div align="center">
 
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh2005) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudraksh-2005) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/) |
+|:---:|:---:|:---:|:---:|:---:|
+| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) | [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/) |
 
 </div>
 
@@ -53,29 +44,18 @@ const rudraksh = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark)](https://skillicons.dev)
-
-### 🌐 Web Development — MERN Stack
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
-
-### 🎨 Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-### 🐍 Python & Data Libraries
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi&theme=dark)](https://skillicons.dev)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,postman,linux&theme=dark)](https://skillicons.dev)
-
-</div>
+| Main Category | Subcategory | Technologies / Tools |
+|:---|:---|:---|
+| **Programming Languages** | | <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</a> &nbsp; <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</a> &nbsp; <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</a> &nbsp; <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript</a> |
+| **Scripting** | | <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash</a> |
+| **Web Development** | Core | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</a> &nbsp; <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="35"/><br/>Markdown &nbsp;&nbsp; <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" height="35"/><br/>JSON |
+| | Styling Frameworks | <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</a> &nbsp; <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap</a> |
+| | JS Libraries & Frameworks | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</a> &nbsp; <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</a> &nbsp; <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</a> &nbsp; <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="35"/><br/>npm |
+| **Database** | NoSQL | <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</a> |
+| **Python Ecosystem** | Web Frameworks | <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="40"/><br/>Django</a> &nbsp; <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</a> |
+| | Data & ML Libraries | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35"/><br/>NumPy &nbsp;&nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35"/><br/>Pandas &nbsp;&nbsp; <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35"/><br/>Matplotlib |
+| **Tools & DevOps** | Version Control | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</a> &nbsp; <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</a> |
+| | IDE & Environment | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</a> &nbsp; <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</a> &nbsp; <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux</a> |
 
 ---
 
@@ -125,16 +105,6 @@ const rudraksh = {
 
 ---
 
-## 🚀 What I'm Cooking Right Now
-
-- 🔭 **Building** full-stack apps with MERN — real-world, production-grade
-- 🧠 **Grinding** DSA in C++ & Java — LeetCode, GFG daily
-- 🐍 **Exploring** Python ML libs — NumPy, Pandas, Matplotlib
-- 🌱 **Learning** System Design — HLD, LLD, scalable architecture
-- 🎨 **Crafting** slick UIs with React + Tailwind CSS
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -159,18 +129,10 @@ const rudraksh = {
 
 ---
 
-## 👁️ Profile Views
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rudraksh-2005&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Rudraksh-2005?style=for-the-badge&color=a855f7&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Rudraksh-2005)
-
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ *"First, solve the problem. Then, write the code."*
 
