@@ -16,9 +16,9 @@
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh2005) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudraksh-2005) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh2005) | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) |
 |:---:|:---:|:---:|:---:|:---:|
-| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) | [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/) |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) | [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/) | [![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://topcoder.com/) |
 
 </div>
 
@@ -44,18 +44,43 @@ const rudraksh = {
 
 ## 🛠️ Tech Stack
 
-| Main Category | Subcategory | Technologies / Tools |
-|:---|:---|:---|
-| **Programming Languages** | | <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</a> &nbsp; <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</a> &nbsp; <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</a> &nbsp; <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript</a> |
-| **Scripting** | | <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash</a> |
-| **Web Development** | Core | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</a> &nbsp; <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="35"/><br/>Markdown &nbsp;&nbsp; <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" height="35"/><br/>JSON |
-| | Styling Frameworks | <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</a> &nbsp; <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap</a> |
-| | JS Libraries & Frameworks | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</a> &nbsp; <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</a> &nbsp; <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</a> &nbsp; <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="35"/><br/>npm |
-| **Database** | NoSQL | <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</a> |
-| **Python Ecosystem** | Web Frameworks | <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="40"/><br/>Django</a> &nbsp; <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</a> |
-| | Data & ML Libraries | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35"/><br/>NumPy &nbsp;&nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35"/><br/>Pandas &nbsp;&nbsp; <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35"/><br/>Matplotlib |
-| **Tools & DevOps** | Version Control | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</a> &nbsp; <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</a> |
-| | IDE & Environment | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</a> &nbsp; <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</a> &nbsp; <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux</a> |
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=c" width="35"/><br/>C | <img src="https://skillicons.dev/icons?i=cpp" width="35"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="35"/><br/>Java | <img src="https://skillicons.dev/icons?i=python" width="35"/><br/>Python | <img src="https://skillicons.dev/icons?i=javascript" width="35"/><br/>JavaScript |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| **Programming Languages** | | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+<br/>
+
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=bash" width="35"/><br/>Bash |
+|:---|:---|:---:|
+| **Scripting** | | ✅ |
+
+<br/>
+
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=html" width="35"/><br/>HTML | <img src="https://skillicons.dev/icons?i=css" width="35"/><br/>CSS | <img src="https://img.shields.io/badge/MD-000?style=flat-square&logo=markdown&logoColor=white" height="35"/><br/>Markdown | <img src="https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white" height="35"/><br/>JSON | <img src="https://skillicons.dev/icons?i=tailwind" width="35"/><br/>Tailwind CSS | <img src="https://skillicons.dev/icons?i=bootstrap" width="35"/><br/>Bootstrap | <img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React.js | <img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="35"/><br/>Express.js |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Web Development** | Core | ✅ | ✅ | ✅ | ✅ | | | | | |
+| | Styling Frameworks | | | | | ✅ | ✅ | | | |
+| | JS Libraries, Frameworks & Environment | | | | | | | ✅ | ✅ | ✅ |
+
+<br/>
+
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br/>MongoDB |
+|:---|:---|:---:|
+| **Database** | NoSQL | ✅ |
+
+<br/>
+
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=django" width="35"/><br/>Django | <img src="https://skillicons.dev/icons?i=fastapi" width="35"/><br/>FastAPI | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35"/><br/>NumPy | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35"/><br/>Pandas | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35"/><br/>Matplotlib |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| **Python Ecosystem** | Web Frameworks | ✅ | ✅ | | | |
+| | Data & ML Libraries | | | ✅ | ✅ | ✅ |
+
+<br/>
+
+| Main Category | Subcategory | <img src="https://skillicons.dev/icons?i=git" width="35"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="35"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="35"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=postman" width="35"/><br/>Postman | <img src="https://skillicons.dev/icons?i=linux" width="35"/><br/>Linux |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| **Tools & DevOps** | Version Control | ✅ | ✅ | | | |
+| | IDE & Environment | | | ✅ | ✅ | ✅ |
 
 ---
 
