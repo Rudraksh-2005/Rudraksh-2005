@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+the+web%2C+one+commit+at+a+time;%F0%9F%A7%A0+DSA+Grinder+%7C+C%2B%2B+%7C+Java;%F0%9F%8C%90+MERN+Stack+Architect;%F0%9F%90%8D+Python+%26+ML+Explorer;%F0%9F%94%A5+Open+Source+%7C+Internship+Ready)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+the+web%2C+one+commit+at+a+time;%F0%9F%A7%A0+DSA+Grinder+%7C+C%2B%2B+%7C+Java;%F0%9F%8C%90+MERN+Stack+Architect;%F0%9F%90%8D+Python+%26+ML+Explorer;%F0%9F%94%A5+Open+Source)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,11 +31,8 @@ const rudraksh = {
   location   : "India 🇮🇳",
   role       : "Full Stack Developer & DSA Enthusiast",
   stack      : ["MongoDB", "Express.js", "React", "Node.js"],
-  languages  : ["C", "C++", "Java", "Python", "JavaScript"],
-  learning   : ["System Design", "ML with Python", "Advanced React"],
-  openTo     : ["Internships 💼", "Collaborations 🤝", "Open Source 🌐"],
-  funFact    : "I debug at 2AM and call it productivity 🌙",
-  motto      : "First solve the problem. Then write the code.",
+  languages  : ["C", "C++", "Python", "JavaScript"],
+  database   : ["SQL"]
 };
 ```
 
