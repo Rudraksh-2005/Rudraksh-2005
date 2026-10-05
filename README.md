@@ -74,24 +74,7 @@ const rudraksh = {
 ---
 
 
-## 🗺️ Skills Roadmap
 
-```
-╔══════════════════════════════════════════════════════════╗
-║               RUDRAKSH'S SKILL TREE 🌳                  ║
-╠══════════════════════════════════════════════════════════╣
-║  ✅  C / C++ / Java         — Core Programming           ║
-║  ✅  DSA                    — Arrays, Trees, Graphs, DP  ║
-║  ✅  HTML / CSS / JS        — Frontend Basics            ║
-║  ✅  React.js + Tailwind    — Modern UI                  ║
-║  ✅  Node.js + Express.js   — Backend API                ║
-║  ✅  MongoDB                — NoSQL Database             ║
-║  ✅  Python + NumPy/Pandas  — Data Libraries             ║
-║  🔄  Django / FastAPI       — Python Backend (Progress)  ║
-║  🔄  System Design          — Architecture (Progress)    ║
-║  ⬜  Machine Learning & AI  — Coming Soon 🔮             ║
-║  ⬜  Cloud (AWS / Vercel)   — Next Frontier 🌩️           ║
-╚══════════════════════════════════════════════════════════╝
 ```
 
 
