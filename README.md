@@ -59,19 +59,6 @@ const rudraksh = {
  
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rudraksh-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh-2005&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=a855f7&sideLabels=a855f7" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rudraksh-2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ff6e96" />
-
-</div>
-
----
 
 
 
