@@ -75,18 +75,7 @@ const rudraksh = {
 
 
 
-```
 
 
----
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rudraksh-2005&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Rudraksh-2005?style=for-the-badge&color=a855f7&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Rudraksh-2005)
-
-### ⚡ *"First, solve the problem. Then, write the code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=a855f7&animation=twinkling" />
-
-</div>
